@@ -22,7 +22,7 @@ The model is trained, validated, and tested, and a selection of random examples 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### File Structure
-* object_detection_resnet18.ipynb: Jupyter Notebook containing the entire project.
+* object_detection_model_resnet18_backbone.ipynb: Jupyter Notebook containing the entire project.
 
 ### Built With
 * Python
